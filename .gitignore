@@ -1,0 +1,8 @@
+*.pyc
+*double.py
+*_1.py
+*_2.py
+*.tar
+*events.*
+*.vscode
+

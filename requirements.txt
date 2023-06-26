@@ -1,0 +1,23 @@
+Cython == 0.29.2
+dask == 1.1.1
+decorator ==  4.3.2 
+enum34 == 1.1.6                    
+grpcio == 1.18.0                   
+h5py ==2.9.0    
+lmdb == 0.94  
+matplotlib == 2.2.3 
+mkl == 2019.0     
+networkx == 2.2    
+nltk == 3.4    
+numpy == 1.15.2 
+opencv-python == 4.2.0.32 
+pillow == 5.3.0  
+protobuf == 3.6.1  
+scikit-image == 0.14.2 
+scipy == 1.2.0  
+setuptools == 40.4.3                   
+tensorboard ==1.12.2 
+tensorboard-logger == 0.1.0  
+torchvision == 0.2.1   
+subprocess32==3.5.4
+ 
